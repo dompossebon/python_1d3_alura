@@ -1,2 +1,10 @@
-# python_1d3_alura
-Estudando Python3
+# Estudando Python3 - By Alura
+________________
+JOGO DE ADVINHAÇÂO - 1 de 3
+________________
+
+
+
+Código com um simples Jogo de advinhação exemplificando a utilização de Laçoes para estruturas de controle!
+
+Nível Básico!
